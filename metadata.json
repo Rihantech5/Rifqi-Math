@@ -1,0 +1,6 @@
+{
+  "name": "Tug of War: Literasi & Numerasi SMP",
+  "description": "Game simulasi tarik tambang edukatif untuk mapel Literasi dan Numerasi SMP dengan AI Question Generator Gemini, canvas physics bertekstur, circular urgency timer, dan mode duel interaktif.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
